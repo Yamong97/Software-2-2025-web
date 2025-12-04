@@ -136,3 +136,30 @@
 - [11.html](t11/11.html)
 - [11.js](t11/11.js)
 
+
+## Module 4
+
+### Task 01
+- [t1.html](Module04/Task01/t1.html)
+- [t1.js](Module04/Task01/t1.js)
+
+### Task 02
+- [t2.html](Module04/Task02/t2.html)
+- [t2.js](Module04/Task02/t2.js)
+
+### Task 03
+- [t3.html](Module04/Task03/t3.html)
+- [t3.js](Module04/Task03/t3.js)
+
+### Task 04
+- [t4.html](Module04/Task04/t4.html)
+- [t4.js](Module04/Task04/t4.js)
+
+### Task 05
+- [t5.html](Module04/Task05/t5.html)
+- [t5.js](Module04/Task05/t5.js)
+
+### Task 06
+- [t6.html](Module04/Task06/t6.html)
+- [t6.js](Module04/Task06/t6.js)
+
